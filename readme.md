@@ -1,22 +1,22 @@
-# Natours
+# Nexter-Homes
 
 <br />
 <p align="center">
-    <img src="natours.png" width="100%" height="100%">
+    <img src="nexter.png" width="100%" height="100%">
   </a>
 
   <p align="center">
-    A Tours website project using HTML and Sass.
+    A Nexter company website project which deals with selling of homes using HTML and Sass.
     <br />
     <br />
     <br />
-    <a href="https://emerald-tours.netlify.app">View Demo</a>
+    <a href="https://emerald-nexterhomes.netlify.app">View Demo</a>
   </p>
 </p>
 
 ## About The Project
 
-This is a website that allows users to browse and book tours to various destinations. 
+This is a responsive Nexter company website project which deals with selling of homes and it is built with HTML and Scss, using modern grid css layout. 
 
 ## Technologies Used
 
@@ -50,17 +50,12 @@ Start with the latest version of NPM to avoid any errors:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/emerald1996/natours
+   git clone https://github.com/emerald1996/nexterhomes
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-
-
-## Usage
-
-- This project showcases the use of modern css to build eye-catching websites coupled with supports for all browsers. 
 
 
 
@@ -74,9 +69,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Create a new Pull Request.
 
 
-## Credit
-
-[Jonas schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) For his online course on Advanced css and Sass
 
 ## License
 
